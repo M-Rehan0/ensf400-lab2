@@ -1,1 +1,1 @@
-This is Muhammad Rehan's repo forked from podgaietska/ensf400-lab2.
+This is Rehan's repo forked from podgaietska/ensf400-lab2.
